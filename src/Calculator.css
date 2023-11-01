@@ -1,0 +1,40 @@
+.calc{
+    text-align: center;
+    margin-top: 70px;
+}
+
+.text{
+    width: 275px;
+    height: 60px;
+    margin-left: 620px;
+    border: 2px solid #0e0000;
+    font-size: 55px;
+}
+
+.button{
+    font-size: 30px;
+    width: 50px;
+    margin-top: 15px;
+    margin-right: 25px;
+    border: 2px solid #fdfdfd;
+    color: #1003fd;
+}
+
+button:hover{
+    background-color: #00fffb;
+}
+
+.button1{
+    width: 130px;
+    margin-right: 20px;
+    font-size: 30px;
+    margin-top: 15px;
+    color: #ff0000;
+}
+
+.button2{
+    width: 130px;
+    margin-right: 20px;
+    font-size: 30px;
+    color: #ff0000;
+}
