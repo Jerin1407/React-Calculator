@@ -38,3 +38,19 @@ button:hover{
     font-size: 30px;
     color: #ff0000;
 }
+
+@media screen and (max-width:850px) {
+    .calc{
+        margin-right: 30px;
+        margin-top: 120px;
+    }
+    .text{
+        margin-left: 40px;
+    }
+    *{
+        background-color: #1003fd;
+    }
+    .button{
+        color: #ebe4f1;
+    }
+}
